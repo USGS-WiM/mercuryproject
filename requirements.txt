@@ -10,7 +10,7 @@ djoser==2.0.1
 idna==2.7
 psycopg2==2.8.3
 pytz==2018.7
-PyYAML==5.1.2
+PyYAML==5.4
 requests==2.22.0
 six==1.11.0
 sqlparse==0.3.0
