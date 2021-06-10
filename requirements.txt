@@ -1,6 +1,6 @@
 certifi==2018.11.29
 chardet==3.0.4
-Django==2.2.4
+Django==2.2.24
 django-cors-headers==3.0.2
 django-templated-mail==1.1.1
 djangorestframework==3.10.2
